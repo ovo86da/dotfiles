@@ -1,0 +1,16 @@
+# ~/.config/wofi/config
+
+show-icons=true
+columns=1
+allow-markup=true
+insensitive=true
+term=foot
+location=center
+width=600
+height=400
+prompt=Buscar:
+always_parse_args=true
+hide_search=false
+filter_rate=100
+allow_images=true
+
